@@ -6,7 +6,7 @@ This is the CloutFlow Assignment setup.
 
 ## Deployment Link
 
-Hosted on Netlify :
+Hosted on Netlify : https://cloutflow-assignment.netlify.app/
 
 There were `no assumptions` made during creation of this assignment
 
