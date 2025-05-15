@@ -15,7 +15,6 @@ const Dashboard = () => {
 		}
 	}, [postsData])
 
-	console.log('posts', postsData)
 	return (
 		<div className='min-h-screen bg-gray-50'>
 			<Navbar
